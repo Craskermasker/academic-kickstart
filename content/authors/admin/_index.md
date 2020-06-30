@@ -36,9 +36,9 @@ education:
   - course: BM BCh in Clinical Medicine
     institution: University of Oxford
     year: 2008-2014
-  - course: BA in Medical Sciences
-    institution: University of Oxford
-    year: 2008-2011
+#  - course: BA in Medical Sciences
+#    institution: University of Oxford
+#    year: 2008-2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -70,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-I'm a doctor and researcher working with people affected by amyotropic lateral sclerosis (ALS, also known as motor neuron disease). We use scanning and recording techniques (MRI, MEG, TMS) to map the activity of the brain and spinal cord in this disease. In particular, I work with people at risk of developing the disease in the future - to find and understand the earliest possible signs of disease. The long term aim is earlier diagnosis and better treatment of neurodegenerative disease. I work as a clinical research fellow at the University of Oxford, supervised by Prof. Martin Turner and Prof. Charlotte Stagg. I am funded by the Association of British Neurologists and the Dunhill Medical Trust.
+I'm a doctor and researcher working with people affected by amyotropic lateral sclerosis (ALS, or motor neuron disease). We use scanning and recording techniques (MRI, MEG, TMS) to map brain and spinal cord activity. This will hopefully lead to earlier diagnosis and better treatment. I work at the University of Oxford, supervised by Prof. Martin Turner and Prof. Charlotte Stagg. I am funded by the Association of British Neurologists and the Dunhill Medical Trust.
