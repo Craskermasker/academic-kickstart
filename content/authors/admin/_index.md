@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Evan Edmond
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,35 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Clinical researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: University of Oxford
+  url: "https://www.mrcbndu.ox.ac.uk/people/dr-evan-edmond"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Clinical researcher working with people affected by amyotrophic lateral sclerosis. My interests include neuroimaging, neurophysiology and programming.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Neuroimaging
+- Amyotrophic Lateral Sclerosis / Motor Neuron Disease
+- Data science
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Clinical Neurosciences
+    institution: University of Oxford
+    year: 2018-
+  - course: Member of the Royal College of Physicians
+    institution: Royal College of Physicians, London
+    year: 2016
+  - course: BM BCh in Clinical Medicine
+    institution: University of Oxford
+    year: 2008-2014
+  - course: BA in Medical Sciences
+    institution: University of Oxford
+    year: 2008-2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +47,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: 'mailto:evan.edmond@ndcn.ox.ac.uk'  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
+  link: https://scholar.google.co.uk/citations?user=Sm55_w0AAAAJ
+- icon: gitlab
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://gitlab.com/evan.edmond
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I'm a doctor and researcher working with people affected by amyotropic lateral sclerosis (ALS, also known as motor neuron disease). We use scanning and recording techniques (MRI, MEG, TMS) to map the activity of the brain and spinal cord in this disease. In particular, I work with people at risk of developing the disease in the future - to find and understand the earliest possible signs of disease. The long term aim is earlier diagnosis and better treatment of neurodegenerative disease. I work as a clinical research fellow at the University of Oxford, supervised by Prof. Martin Turner and Prof. Charlotte Stagg. I am funded by the Association of British Neurologists and the Dunhill Medical Trust.
