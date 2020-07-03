@@ -1,22 +1,22 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "GTC coding series"
-summary: "Medical student tutorials"
+title: "Atraumatic LP needles"
+summary: ""
 authors: []
 tags: []
 categories: []
-date: 2020-06-30T18:38:24+01:00
+date: 2020-07-03T13:01:16+01:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://gitlab.com/evan.edmond/gtc-coding-series"
+external_link: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: ""
+  focal_point: "Top"
   preview_only: false
 
 # Custom links (optional).
@@ -39,5 +39,3 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-
-A series of interactive tutorials aimed at medical students. While this mainly consists of links to better resources, I have put together a few very brief interactive notebooks to give a taste of what can be done.

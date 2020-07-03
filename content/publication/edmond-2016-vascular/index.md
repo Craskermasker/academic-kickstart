@@ -7,5 +7,6 @@ publication_types: ["2"]
 abstract: ""
 featured: true
 publication: "*BMC neurology*"
+doi: "10.1186/s12883-016-0634-z"
 ---
 

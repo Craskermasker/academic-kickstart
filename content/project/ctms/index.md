@@ -1,15 +1,15 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "GTC coding series"
-summary: "Medical student tutorials"
+title: "cTMS"
+summary: "controllable pulse width"
 authors: []
 tags: []
 categories: []
-date: 2020-06-30T18:38:24+01:00
+date: 2020-06-30T22:33:06+01:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://gitlab.com/evan.edmond/gtc-coding-series"
+external_link: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -17,7 +17,7 @@ external_link: "https://gitlab.com/evan.edmond/gtc-coding-series"
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -27,7 +27,7 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: ""
+url_code: "https://gitlab.com/evan.edmond/ctms"
 url_pdf: ""
 url_slides: ""
 url_video: ""
@@ -39,5 +39,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-
-A series of interactive tutorials aimed at medical students. While this mainly consists of links to better resources, I have put together a few very brief interactive notebooks to give a taste of what can be done.
+Pilot study testing feasibility of applying controllable pulse width TMS to understanding selective vulnerability in ALS.

@@ -7,5 +7,6 @@ publication_types: ["2"]
 abstract: ""
 featured: true
 publication: "*Diabetes and Vascular Disease Research*"
+doi: "10.1177/1479164118757923"
 ---
 

@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in Clinical Neurosciences
+  - course: DPhil student in Clinical Neurosciences
     institution: University of Oxford
     year: 2018-
   - course: Member of the Royal College of Physicians
